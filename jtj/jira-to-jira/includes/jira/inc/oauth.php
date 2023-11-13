@@ -1,0 +1,3 @@
+<?php
+// In full version
+?>
