@@ -8,6 +8,7 @@ if( isset( $_REQUEST['user_key'] ) && function_exists('jira') ) {
 	jira();
 } else {
 	http_response_code(404);
-	echo 'Fail';
+	echo 'Not found';
+	exit;
 }
 ?>

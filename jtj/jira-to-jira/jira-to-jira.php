@@ -1,6 +1,6 @@
 <?php
 /*
-Module Name: Jira to Jira Integration Module
+Module Name: JTJ (Jira to Jira) Integration Module
 Module URL: https://github.com/DTs-dev/jira-to-jira
 Description: Integration module for interaction between two Jira instances
 Author: Dmitriy Tsyganok
